@@ -1,16 +1,14 @@
-# calculadoraimc
+# calculadoraIMC - BMIcalculator
 
-A new Flutter application.
+A simple Flutter app to calculate your Body Mass Index(BMI) or Indice de Massa Corporal(IMC) in portuguese.
 
-## Getting Started
+## A simple demonstration
 
-This project is a starting point for a Flutter application.
+  ![Alt Text](https://media.giphy.com/media/IpydcUWlFrfk9FJmJs/giphy.gif)
+  
+## Inputs
 
-A few resources to get you started if this is your first Flutter project:
+<p>Peso(kg) - Weight</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p>Altura(cm) - Height</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
